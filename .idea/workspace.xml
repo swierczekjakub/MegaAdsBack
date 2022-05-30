@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="df1a7b2c-0031-4772-824a-ab437dfb6a16" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/records/ad.record.ts" beforeDir="false" afterPath="$PROJECT_DIR$/records/ad.record.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/ad.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/ad.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,17 @@
     <property name="ts.external.directory.path" value="D:\Kuba\Programowanie\MegaK\Etap7 - zaawansowany Node.js\tydzien4 i 5\od dzien 3 do konca - wielki projekt\mega-ads-back\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start:dev">
+    <configuration name="start:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -48,6 +57,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start:dev" />
         <item itemvalue="npm.test" />
       </list>
     </recent_temporary>
@@ -61,7 +71,10 @@
       <option name="presentableId" value="Default" />
       <updated>1653514635658</updated>
       <workItem from="1653514637273" duration="999000" />
-      <workItem from="1653549513634" duration="7616000" />
+      <workItem from="1653549513634" duration="8123000" />
+      <workItem from="1653655386418" duration="3091000" />
+      <workItem from="1653735403127" duration="639000" />
+      <workItem from="1653928688498" duration="969000" />
     </task>
     <task id="LOCAL-00001" summary="Added tests and implementation of getting of one AdRecord.">
       <created>1653557786568</created>
@@ -84,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653579339102</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added possibility to add new ads into database.">
+      <created>1653580135708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653580135708</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +114,7 @@
     <MESSAGE value="Added tests and implementation of getting of one AdRecord." />
     <MESSAGE value="Added rate limiter." />
     <MESSAGE value="Added searching and listing of ads." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added searching and listing of ads." />
+    <MESSAGE value="Added possibility to add new ads into database." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added possibility to add new ads into database." />
   </component>
 </project>
