@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df1a7b2c-0031-4772-824a-ab437dfb6a16" name="Changes" comment="Added config example">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/db.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/db.ts" afterDir="false" />
-    </list>
+    <list default="true" id="df1a7b2c-0031-4772-824a-ab437dfb6a16" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +79,7 @@
       <workItem from="1653735403127" duration="639000" />
       <workItem from="1653928688498" duration="1655000" />
       <workItem from="1654005144393" duration="1052000" />
-      <workItem from="1654007884146" duration="1579000" />
+      <workItem from="1654007884146" duration="1939000" />
     </task>
     <task id="LOCAL-00001" summary="Added tests and implementation of getting of one AdRecord.">
       <created>1653557786568</created>
@@ -127,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654006071929</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added config example and moved DB connection data into config.">
+      <created>1654033849921</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654033849921</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +155,7 @@
     <MESSAGE value="Added possibility to add new ads into database." />
     <MESSAGE value="Added all EP-s." />
     <MESSAGE value="First public release! v1.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="First public release! v1.0.0" />
+    <MESSAGE value="Added config example and moved DB connection data into config." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added config example and moved DB connection data into config." />
   </component>
 </project>
