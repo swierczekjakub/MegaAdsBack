@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df1a7b2c-0031-4772-824a-ab437dfb6a16" name="Changes" comment="">
+    <list default="true" id="df1a7b2c-0031-4772-824a-ab437dfb6a16" name="Changes" comment="Added all EP-s.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,8 @@
       <workItem from="1653549513634" duration="8123000" />
       <workItem from="1653655386418" duration="3091000" />
       <workItem from="1653735403127" duration="639000" />
-      <workItem from="1653928688498" duration="969000" />
+      <workItem from="1653928688498" duration="1655000" />
+      <workItem from="1654005144393" duration="891000" />
     </task>
     <task id="LOCAL-00001" summary="Added tests and implementation of getting of one AdRecord.">
       <created>1653557786568</created>
@@ -104,17 +105,36 @@
       <option name="project" value="LOCAL" />
       <updated>1653580135708</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added all EP-s.">
+      <created>1653929930266</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653929930266</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added tests and implementation of getting of one AdRecord." />
     <MESSAGE value="Added rate limiter." />
     <MESSAGE value="Added searching and listing of ads." />
     <MESSAGE value="Added possibility to add new ads into database." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added possibility to add new ads into database." />
+    <MESSAGE value="Added all EP-s." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all EP-s." />
   </component>
 </project>
